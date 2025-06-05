@@ -1,5 +1,5 @@
 <?php
-// Simulación de datos de películas (40 películas, 10 por categoría) con imágenes locales
+// Simulación de datos de películas (30 películas, 10 por categoría) con imágenes locales
 $movies = [
     // Animación
     ["title" => "Spider-Man: Into the Spider-Verse", "category" => "Animación", "poster" => "imagenes/imagen1.jpg"],
